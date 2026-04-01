@@ -1,4 +1,7 @@
 # Popo-RAG-Guardrail-AI-Chatbot
+![Popo_Ai_RAG_Chatbot](https://github.com/user-attachments/assets/0df2d1a5-9b65-4a65-8645-70dc9d8d1dab)
+
+
 To build an Enterprise-Ready RAG(Retrieval-Augmented-Generation) Chatbot with Intent Guardrails that assist in question-answering based on its knowledge, in this case I used Apple 10K Finance Report 2025. But anyone could feed it with their own PDF document example FAQ for a customer service agent.
 
 ## 🍏Try out my Live Chatbot Here🍏:
